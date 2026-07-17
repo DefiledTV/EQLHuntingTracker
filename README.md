@@ -1,3 +1,7 @@
+If you want to skip using Python the EQL Tracker v0.2.3.7z file contains the full standalone option with the EXE file.
+
+***************************************************************************
+
 # EQL Hunting Log
 
 A real-time combat tracker for **EverQuest Legends**. One Python file, no
